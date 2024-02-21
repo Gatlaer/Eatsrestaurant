@@ -12,7 +12,7 @@ h1 {
 h2 {
     font-family: 'Montserrat', sans-serif;
     font-size: 44px;
-    font-weight: 600;
+    font-weight: 700;
     line-height: 120%;
 }
 
@@ -32,7 +32,7 @@ h4 {
 }
 
 p {
-     font-family: 'Montserrat',sans-serif;
+    font-family: 'Montserrat',sans-serif;
     font-size: 24px;
     font-weight: 500;
     line-height: 158.33%;
@@ -58,6 +58,12 @@ button {
     font-size: 12px;
     font-weight: 700;
     line-height: 150%;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 0 20px;
 }
 
 
