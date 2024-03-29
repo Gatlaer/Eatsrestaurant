@@ -2,6 +2,27 @@
      font-family: 'Montserrat', sans-serif;
  }
 
+.logo {
+    margin-top: 50px;
+}
+
+.new-nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    align-items: start;
+}
+
+.menuItem {
+    margin-right: 20px;
+}
+
+.section-main {
+    background-image: url(./img/Rectangle\ 48.png);
+    padding-bottom: 50px;
+}
+
+
 h1 {
     font-family: 'Montserrat', sans-serif;
     font-size: 58px;
@@ -65,6 +86,11 @@ button {
     margin: 0 auto;
     padding: 0 20px;
 }
+
+
+
+
+
 
 
 
